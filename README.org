@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/ucw/rfc2388-binary.git   |
-| commit  |   |
-| systems | rfc2388-binary |
-|---------+-------------------------------------------|
+b9959b4---------+-------------------------------------------|
+b9959b4 source  | git:https://gitlab.common-lisp.net/ucw/rfc2388-binary.git   |
+b9959b4 commit  |   |
+b9959b4 systems | rfc2388-binary |
+b9959b4---------+-------------------------------------------|
 
